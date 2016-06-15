@@ -1,0 +1,5 @@
+<root>
+	<routes>
+		<route origin-station="" destination-station="" volume-price=500 collateral-price=0.01/> 
+	</routes>
+</root>

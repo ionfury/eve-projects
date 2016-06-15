@@ -1,0 +1,5 @@
+<root>
+	<endpoints>
+		<endpoint name="blueprints" url="https://api.eveonline.com/char/blueprints.xml."/>
+	</endpoints>
+</root>
