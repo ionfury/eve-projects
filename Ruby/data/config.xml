@@ -1,0 +1,15 @@
+<root>
+  <settings>
+    <setting name="static-data" url="https://www.fuzzwork.co.uk/dump/latest/">
+      <properties>
+        <property name="industryBlueprints.sql.bz2" />
+        <property name="invTypes.sql.bz2" />
+      </properties>
+    </setting>
+    <setting name="">
+      <properties>
+        <property />
+      </properties>
+    </setting>
+  </settings>
+</root>

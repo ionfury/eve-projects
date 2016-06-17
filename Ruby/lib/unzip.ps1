@@ -1,0 +1,1 @@
+(New-Object Net.WebClient).DownloadFile('https://www.fuzzwork.co.uk/dump/latest/invTypes.sql.bz2','invTypes.sql.bz2');(new-object -com shell.application).namespace('data\static').CopyHere((new-object -com shell.application).namespace('invTypes.sql.bz2').Items(),16)
